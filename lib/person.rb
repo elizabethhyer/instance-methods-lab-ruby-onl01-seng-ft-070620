@@ -10,3 +10,5 @@ class Person
 end 
 
 person = Person.new 
+person.talk
+person.walk
