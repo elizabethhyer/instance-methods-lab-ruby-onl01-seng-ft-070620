@@ -3,6 +3,8 @@ class Person
     "Hello World!"
     
     def walk 
-      "The Person"
+      "The Person is walking"
+      
+    end 
   end 
 end 
